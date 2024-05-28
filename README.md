@@ -1,5 +1,5 @@
 # TRABALHO - LINGUAGENS (JAVASCRIPT)
-por Diego Parente e Lucas Muniz, para a cadeira de "Linguagens de Programação", da professora Neusa Liberato Evangelista (Uni7).
+por <a href="https://github.com/dgomp/">Diego Parente</a> e <a href="https://github.com/lucasMunizt/">Lucas Muniz</a>, para a cadeira de "Linguagens de Programação", da professora Neusa Liberato Evangelista (Uni7).
 
 
 ## 1. As variáveis locais são alocadas estática ou dinamicamente?	
