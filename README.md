@@ -14,7 +14,7 @@ por <a href="https://github.com/dgomp/">Diego Parente</a> e <a href="https://git
 
 ## 3. Qual método (ou métodos) de passagem de parâmetros é usado?
 
-> Em tipos primitivos (números, strings, booleanos), a passagem é feita por valor. Já para objetos (array e funções), é feita por referência.
+> Em tipos primitivos (números, strings, booleanos), a passagem é feita por valor. Já para objetos, é feita por referência.
 
 
 ## 4. Os tipos dos parâmetros são verificados em relação aos tipos dos parâmetros formais?
